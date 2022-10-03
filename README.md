@@ -1,3 +1,9 @@
+# Using typescript and react to dynamically render html tags
+
+<p>Inspiration from Web Dev Junkie <a href="https://www.youtube.com/watch?v=yl0rWSCOoms&ab_channel=WebDevJunkie">Watch here 📹 </a></p>
+<br>
+# -The regular react stuff-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
